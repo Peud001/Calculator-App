@@ -73,11 +73,11 @@
 .clear{
     grid-area: clear;
 }
-.equal{
+.equals{
     grid-area: equal;
     background: linear-gradient(to bottom,#75c13f, #9fd479, #49a109);
 }
-.equal:active{
+.equals:active{
     background: #76c43f;
     transform: scale(0.99);
 }
